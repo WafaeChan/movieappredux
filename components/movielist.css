@@ -1,0 +1,12 @@
+.movielist {
+    color: white;
+    max-width: 50vw;
+    min-width: 50vw;
+    max-height: 60vw;
+    min-height: 60vw;
+    overflow-y: scroll;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(0, 0, 0, 0.219);
+    margin-top: 93px;
+}

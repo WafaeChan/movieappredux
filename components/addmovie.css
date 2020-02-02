@@ -1,0 +1,10 @@
+.movieformcontainer Button{
+    background:rgba(255, 230, 0, 0.301);
+    border: none;
+
+}
+
+.movieformcontainer Button:hover{
+    background:rgb(255, 230, 0);
+    color: rgb(32, 32, 32);
+}
